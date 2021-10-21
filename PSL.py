@@ -19,6 +19,8 @@ while True:
     th = cv.inRange(imGray, 60, 80)
 
     # _, mask = cv.threshold(imgray, 1, 255, cv.THRESH_BINARY)
+
+    # MileStone 3 Work:
     # closing... erode to dilate
     # Convo. neural network...
 
